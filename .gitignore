@@ -2,3 +2,5 @@
 venv/
 .ipynb_checkpoints
 */.ipynb_checkpoints/*
+*/notMNIST_train/*
+*/notMNIST_val/*
